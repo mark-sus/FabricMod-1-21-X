@@ -1,0 +1,9 @@
+{
+  "item.testmod.pink_garnet": "§dРожевий камінь",
+  "item.testmod.raw_pink_garnet": "§dСирий рожевий камінь",
+
+  "block.testmod.pink_garnet_block": "§dБлок з рожевого камню",
+  "block.testmod.raw_pink_garnet_block": "§dБлок з сирого рожевого камню",
+
+  "itemgroup.testmod.pink_garnet_items": "§dПредмети з рожевого камню"
+}

@@ -1,12 +1,15 @@
 {
-  "item.testmod.pink_garnet": "§dPink Garnet",
-  "item.testmod.raw_pink_garnet": "§dRaw Pink Garnet",
+  "item.testmod.pink_garnet": "Pink Garnet",
+  "item.testmod.raw_pink_garnet": "Raw Pink Garnet",
+  "item.testmod.chisel": "Chisel",
 
-  "block.testmod.pink_garnet_block": "§dPink Garnet Block",
-  "block.testmod.raw_pink_garnet_block": "§dRaw Pink Garnet Block",
+  "block.testmod.pink_garnet_block": "Pink Garnet Block",
+  "block.testmod.raw_pink_garnet_block": "Raw Pink Garnet Block",
+  "block.testmod.magic_block": "Magic Block",
+  "item.testmod.chips_lays": "LAYS with crab",
 
-  "block.testmod.pink_garnet_ore": "§dPink Garnet Ore",
-  "block.testmod.pink_garnet_deepslate_ore": "§dPink Garnet Deepslate Ore",
+  "block.testmod.pink_garnet_ore": "Pink Garnet Ore",
+  "block.testmod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
 
-  "itemgroup.testmod.pink_garnet_items": "§dPink Garnet Items"
+  "itemgroup.testmod.pink_garnet_items": "Pink Garnet Items"
 }

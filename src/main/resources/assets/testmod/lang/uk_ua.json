@@ -1,11 +1,15 @@
 {
-  "item.testmod.pink_garnet": "§dРожевий камінь",
-  "item.testmod.raw_pink_garnet": "§dСирий рожевий камінь",
+  "item.testmod.pink_garnet": "Рожевий камінь",
+  "item.testmod.raw_pink_garnet": "Сирий рожевий камінь",
 
-  "block.testmod.pink_garnet_block": "§dБлок з рожевого камню",
-  "block.testmod.raw_pink_garnet_block": "§dБлок з сирого рожевого камню",
-  "block.testmod.pink_garnet_ore": "§dРуда рожевого камню",
-  "block.testmod.pink_garnet_deepslate_ore": "§dГлибокосланцева руда рожевого камню",
+  "item.testmod.chisel": "Різець",
+  "block.testmod.magic_block": "Магічний блок",
+  "item.testmod.chips_lays": "ЧІПСИ ЛЕЙС З КРАБОМ",
 
-  "itemgroup.testmod.pink_garnet_items": "§dПредмети з рожевого камню"
+  "block.testmod.pink_garnet_block": "Блок з рожевого камню",
+  "block.testmod.raw_pink_garnet_block": "Блок з сирого рожевого камню",
+  "block.testmod.pink_garnet_ore": "Руда рожевого камню",
+  "block.testmod.pink_garnet_deepslate_ore": "Глибокосланцева руда рожевого камню",
+
+  "itemgroup.testmod.pink_garnet_items": "Предмети з рожевого камню"
 }

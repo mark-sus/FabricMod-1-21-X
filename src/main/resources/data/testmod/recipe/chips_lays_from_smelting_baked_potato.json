@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "expirience": 0.2,
+  "group": "pink_garnet",
+  "ingredient": {
+    "item": "minecraft:baked_potato"
+  },
+  "result": {
+    "id": "testmod:chips_lays"
+  }
+}

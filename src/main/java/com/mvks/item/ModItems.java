@@ -1,6 +1,7 @@
 package com.mvks.item;
 
 import com.mvks.TestMod;
+import com.mvks.item.custom.ChiselItem;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
@@ -13,6 +14,9 @@ public class ModItems {
 
     public static final Item PINK_GARNET = registerItem("pink_garnet", new Item(new Item.Settings()));
     public static final Item RAW_PINK_GARNET = registerItem("raw_pink_garnet", new Item(new Item.Settings()));
+
+    public static final Item CHISEL = registerItem("chisel", new ChiselItem(new Item.Settings().maxDamage(32)));
+    public static final Item CHIPS_LAYS = registerItem("chips_lays", new Item(new Item.Settings().food(ModFoodComponents.CHIPS_LAYS)));
 
     private static Item registerItem(String name, Item item){
         return Registry.register(Registries.ITEM, Identifier.of(TestMod.MOD_ID, name), item);

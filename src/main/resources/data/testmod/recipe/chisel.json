@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "testmod:pink_garnet"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  #",
+    " 1 ",
+    "1  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "testmod:chisel"
+  }
+}

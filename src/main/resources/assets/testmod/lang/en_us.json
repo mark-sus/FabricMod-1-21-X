@@ -4,5 +4,9 @@
 
   "block.testmod.pink_garnet_block": "§dPink Garnet Block",
   "block.testmod.raw_pink_garnet_block": "§dRaw Pink Garnet Block",
-  "itemgroup.testmod.pink_garnet_items": "§dПредмети з рожевого камню"
+
+  "block.testmod.pink_garnet_ore": "§dPink Garnet Ore",
+  "block.testmod.pink_garnet_deepslate_ore": "§dPink Garnet Deepslate Ore",
+
+  "itemgroup.testmod.pink_garnet_items": "§dPink Garnet Items"
 }
